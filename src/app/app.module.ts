@@ -3,10 +3,12 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { ThreeJsViewComponent } from './three-js-view/three-js-view.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ThreeJsViewComponent
   ],
   imports: [
     BrowserModule,

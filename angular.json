@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularThreeJS"
+    }
+  },
+  "defaultProject": "AngularThreeJS",
+  "cli": {
+    "analytics": "3445200f-975a-4470-8992-4420e6214964"
+  }
 }
